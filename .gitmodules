@@ -1,3 +1,6 @@
 [submodule "darcula"]
 	path = darcula
 	url = https://github.com/dracula/dracula-theme.git
+[submodule ".vim"]
+	path = .vim
+	url = https://github.com/dracula/vim.git
